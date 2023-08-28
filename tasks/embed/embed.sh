@@ -19,7 +19,7 @@
 # BEGIN PARAMETERS TO SET
 #############################
 # location of models (e.g. /path/to/models); no trailing slash
-model_dir="/Users/cat.kutay/Sourcetree/LASER"
+model_dir="/Users/cat.kutay/projects/laser/models"
 
 # version number for LASER3 models
 version=1
